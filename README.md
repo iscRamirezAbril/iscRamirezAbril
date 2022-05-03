@@ -1,6 +1,8 @@
 # Hi there 👋, my name is Abril.
 ### I am Computer System Engineering Student :computer: .
 
+<p align="center"><img src="myOctocat_0.png" alt="My own Octocat"/></p>
+
 ## About me:
 ### Description :memo: :
 I like to learn new things about programming.
