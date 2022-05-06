@@ -16,7 +16,10 @@ My hobbies are drawing, watching movies or playing video games.
 
 ## Connect with me:
 ### Social media:
-[<p align="center"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/iscRamirezAbril)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/abril.ramirez.9235)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/abril_rf01/) </p>
+<p align="center">
+<a href="https://fb.com/abril.ramirez.9235" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="abril.ramirez.9235" height="30" width="40" /></a>
+<a href="https://instagram.com/abril_rf01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="abril_rf01" height="30" width="40" /></a>
+</p>
 
 ### Email 📫:
 You can reach me at: **isc.ramirez_abril@outlook.com**
