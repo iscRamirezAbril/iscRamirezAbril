@@ -16,10 +16,15 @@ My hobbies are drawing, watching movies or playing video games.
 ![image](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![image](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6)
 ![image](https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white)
+
+<details>
+<summary><h3>More Skills</h3></summary>
+  
 #### ⚡ Database
 ![image](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 ![image](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![image](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
+  
 #### 🚀 Frameworks & Library
 ![image](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![image](https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=Apache&logoColor=white)
@@ -33,6 +38,9 @@ My hobbies are drawing, watching movies or playing video games.
 ![image](https://img.shields.io/badge/dialogflow-FF9800?style=for-the-badge&logo=dialogflow&logoColor=white)
 #### ☁ Cloud
 ![image](https://img.shields.io/badge/microsoft%20azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+
+</details>
+
 ### I am learning...
 ![image](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![image](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -46,10 +54,8 @@ My hobbies are drawing, watching movies or playing video games.
 <a href="https://github.com/iscRamirezAbril" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="abril.ramirez.9235"/></a>
 
 ### 📫 Email:
-You can reach me at: **isc.ramirez_abril@outlook.com**
-![image](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+You can reach me at:
 
+[![LogoCSS](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:isc.ramirez_abril@outlook.com)
 ## Github information:
 ![GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=iscRamirezAbril&theme=tokyonight) 
-
-
