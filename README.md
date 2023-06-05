@@ -12,6 +12,7 @@ My hobbies are drawing, watching movies or playing video games.
 You can reach me at:
 
 [![image](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:isc.ramirez_abril@outlook.com)
+
 <a href="https://www.linkedin.com/in/abril-ramirez-flores-71a26b275/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="abril.ramirez.9235"/></a>
 
 ## 🥇 My skills :
