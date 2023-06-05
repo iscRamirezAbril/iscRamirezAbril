@@ -1,4 +1,4 @@
-<p align="center"><img src="banner.png" alt="My banner"/></p>
+<p align="center"><img src="GithubBanner.png" alt="My banner"/></p>
 
 ![image](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![image](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
