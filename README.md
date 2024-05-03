@@ -2,7 +2,7 @@
 
 ## About Me: :video_game:
 I am a Computer Systems Engineering graduate at <b> Tijuana Technological Institute. </b>
-<br> I'm currently searching for my <b> first Computer Systems Engineering job oportunity. </b>
+<br> I'm currently searching for my <b> first Computer Systems Engineering job opportunity. </b>
 
 I like to learn new things about programming. My hobbies are drawing, watching movies and play video games.
 <br> Ask me anything about Figma or UI/UX topics 🖌️
