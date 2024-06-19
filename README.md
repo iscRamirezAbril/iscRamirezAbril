@@ -7,7 +7,7 @@ I am a Computer Systems Engineering graduate at <b> Tijuana Technological Instit
 I like to learn new things about programming. My hobbies are drawing, watching movies and play videogames.
 <br> Ask me anything about Figma or UI/UX topics 🖌️
 
-I am working on a personal website project for a Burger Restaurant 🍔
+I am working on a Udemy project called "Yelpcamp" 🏕️
 <br> 🟣 Currently learning website development on Udemy
 
 ## My Skills: 🥇
