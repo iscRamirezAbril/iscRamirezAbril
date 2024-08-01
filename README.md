@@ -7,7 +7,7 @@ I am a Computer Systems Engineering graduate at <b> Tijuana Technological Instit
 I like to learn new things about programming. My hobbies are drawing, watching movies and play videogames.
 <br> Ask me anything about Figma or UI/UX topics 🖌️
 
-🟣 Currently learning UI/UX Advanced Design & Bootstrap on Udemy
+🟣 Currently learning Bootstrap on Udemy
 
 ## My Skills: 🥇
   
