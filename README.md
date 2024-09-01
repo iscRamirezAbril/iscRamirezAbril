@@ -35,4 +35,4 @@ Or you can connect with me at:
 
 I appreciate your support ❤️ 
 
-<a href="https://www.buymeacoffee.com/iscRamirezAbril" target="blank"><img align="center" src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="BuyMeACoffee"/></a>
+<a href="https://ko-fi.com/iscramirezabril" target="blank"><img align="center" src="https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white" alt="Ko-Fi"/></a>
