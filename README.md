@@ -33,6 +33,6 @@ Or you can connect with me at:
 <a href="https://dribbble.com/iscRamirezAbril" target="blank"><img align="center" src="https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white" alt="Dribbble"/></a>
 <a href="https://x.com/Eipril_0103" target="blank"><img align="center" src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/></a>
 
-I appreciate your support ❤️ 
+Online shop comming soon... ❤️ 
 
-<a href="https://ko-fi.com/iscramirezabril" target="blank"><img align="center" src="https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white" alt="Ko-Fi"/></a>
+<!-- <a href="" target="blank"><img align="center" src="" alt="Abril Ramirez's Shop"/></a> -->
