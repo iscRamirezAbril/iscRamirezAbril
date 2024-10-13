@@ -2,9 +2,7 @@
   <img src="https://github.com/iscRamirezAbril/iscRamirezAbril/blob/main/banner.jpg">
 </div>
 
-<h1>Hi there, I am Abril :smile: </h1>
-
-## About Me: 🦖
+# About Me: 🦖
 I am a Computer Systems Engineering graduate at <b> Tijuana Technological Institute. </b>
 <br> I'm currently searching for my <b> first Computer Systems Engineering job opportunity. </b>
 
