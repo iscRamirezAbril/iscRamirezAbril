@@ -3,7 +3,7 @@
 </div>
 
 # About Me: 🦖
-I am a Computer Systems Engineering graduate at <b> Tijuana Technological Institute. </b>
+I am a Computer Systems Engineer, graduated from the <b> Tijuana Technological Institute. </b>
 <br> I'm currently searching for my <b> first Computer Systems Engineering job opportunity. </b>
 
 I like to learn new things about programming. My hobbies are drawing, watching movies and play videogames.
@@ -31,6 +31,5 @@ Or you can connect with me at:
 <a href="https://dribbble.com/iscRamirezAbril" target="blank"><img align="center" src="https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white" alt="Dribbble"/></a>
 <a href="https://x.com/Eipril_0103" target="blank"><img align="center" src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/></a>
 
-Online shop comming soon... ❤️ 
-
-<!-- <a href="" target="blank"><img align="center" src="" alt="Abril Ramirez's Shop"/></a> -->
+Visit my online store: 💜 <br>
+https://uxramirez.com/
