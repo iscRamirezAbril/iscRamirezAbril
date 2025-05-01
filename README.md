@@ -4,12 +4,12 @@
 
 # About Me: 🦖
 I am a Computer Systems Engineer, graduated from the <b> Tijuana Technological Institute. </b>
-<br> I'm currently searching for my <b> first Computer Systems Engineering job opportunity. </b>
+<br> I'm currently working at <b> Jointech-MX as Jr. UX/UI Designer</b>. </b>
 
 I like to learn new things about programming. My hobbies are drawing, watching movies and play videogames.
 <br> Ask me anything about Figma or UI/UX topics 🖌️
 
-🔵 Currently starting on Offering my Web Design Freelance Services
+🔵 Currently offering my Web Design Freelance Services
 
 ## My Skills: 🥇
   
@@ -29,9 +29,3 @@ Or you can connect with me at:
 <a href="https://www.linkedin.com/in/abril-ramirez-flores-71a26b275/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="abril.ramirez.9235"/>
 <a href="https://www.behance.net/ux_ramirez" target="blank"><img align="center" src="https://img.shields.io/badge/Behance-0054F7?style=for-the-badge&logo=behance&logoColor=white" alt="Behance"/></a>
 <a href="https://dribbble.com/ux_ramirez" target="blank"><img align="center" src="https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white" alt="Dribbble"/></a>
-
-## Online Store 🛒
-Visit my online store 💜 <br>
-Where you will find Figma & Bootstrap Templates
-
-<a href="https://payhip.com/uxramirez" target="blank"><img align="center" src="https://img.shields.io/badge/Payhip-5C6AC4.svg?style=for-the-badge&logo=Payhip&logoColor=white" alt="Payhip"/></a>
