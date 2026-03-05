@@ -2,14 +2,21 @@
   <img src="https://github.com/iscRamirezAbril/iscRamirezAbril/blob/main/banner.jpg">
 </div>
 
-# About Me: 🦖
-I am a Computer Systems Engineer, graduated from the <b> Tijuana Technological Institute. </b>
-<br> I'm currently working at <b> Jointech-MX as Jr. UX/UI Designer</b>. </b>
+# 👋 Hi, I'm Abril
+### UI/UX Designer | Frontend Enthusiast
 
-I like to learn new things about programming. My hobbies are drawing, watching movies and play videogames.
-<br> Ask me anything about Figma or UI/UX topics 🖌️
+I'm a **UI/UX Designer** with a background in **Computer Systems Engineering**.  
+I enjoy designing intuitive and user-centered digital experiences while also understanding how interfaces are built on the frontend.
 
-🔵 Currently offering my Web Design Freelance Services
+My goal is to **bridge design and development**, creating products that are both functional and visually engaging.
+
+Currently expanding my frontend knowledge and moving toward **React and modern UI development**.
+
+## About Me: 🦖 
+- 🎨 UI/UX Designer focused on usability and clean interfaces
+- 💻 Frontend foundations with **HTML, CSS, JavaScript and Bootstrap**
+- 🌱 Currently learning **React and component-based development**
+- 🧠 Passionate about design systems, usability and digital experiences
 
 ## My Skills: 🥇
   
