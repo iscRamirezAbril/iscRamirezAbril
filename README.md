@@ -31,13 +31,6 @@ Currently expanding my frontend knowledge and moving toward **React and modern U
 ### Development Tools
 ![NodeJS](https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![VSCode](https://img.shields.io/badge/VSCode-blue?style=for-the-badge&logo=visual-studio-code)
-
-## 💼 What I Do
-- UI/UX Design
-- Wireframing & Prototyping
-- Responsive Web Design
-- Landing Page Design
-- Frontend implementation of interfaces
   
 ## 📬 Let's connect:
 ⭐ Always open to collaboration, learning and new opportunities.
