@@ -48,5 +48,5 @@ isc.ramirez.abril@outlook.com
 🌐 Portfolio  
 https://iscramirezabril.github.io
 
-🌐 Website  
+🔵 Website  
 https://www.uxramirez.com
